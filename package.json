@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Jansten/ExpressJS-Tutorial/issues"
   },
-  "homepage": "https://github.com/Jansten/ExpressJS-Tutorial#readme"
+  "homepage": "https://github.com/Jansten/ExpressJS-Tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
