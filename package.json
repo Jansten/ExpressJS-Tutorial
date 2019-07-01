@@ -1,0 +1,19 @@
+{
+  "name": "expressjs-tutorial",
+  "version": "1.0.0",
+  "description": "A temporary repo to follow the MDN's Express/NodeJS Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jansten/ExpressJS-Tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jansten/ExpressJS-Tutorial/issues"
+  },
+  "homepage": "https://github.com/Jansten/ExpressJS-Tutorial#readme"
+}
