@@ -16,4 +16,4 @@ GenreSchema
 });
 
 // Export model
-module.exports = mondoose.model('Genre', GenreSchema);
+module.exports = mongoose.model('Genre', GenreSchema);
